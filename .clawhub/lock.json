@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1775549728602
+    },
+    "self-improving-agent": {
+      "version": "3.0.13",
+      "installedAt": 1775549734789
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1775549744005
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1775549749717
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1775549754735
+    }
+  }
+}
